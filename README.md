@@ -1,4 +1,4 @@
-![Chatty Octopus Banner](https://garden.chattyoctopus.com/images/octopusbanner.jpg)
+![Chatty Octopus Banner](https://teacher.chattyoctopus.com/images/octopusbanner.jpg)
 
 # Chatty Octopus Teacher - School is in Session
 
